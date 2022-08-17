@@ -2,7 +2,7 @@
 This repository contains a Java solution to the *sleeping barber* problem, using semaphores, for the Advanced Programming Techniques class. 
 
 <p align='center'>
-	<img src="assets/SleepingBarber.jpg" alt="SleepingBarber Gui" style="height: 350px; width:350px;"/>
+	<img src="https://github.com/MinasCham/sleeping-barber/blob/main/assets/SleepingBarber.JPG" alt="SleepingBarber Gui" style="height: 350px; width:350px;"/>
 </p>
 
 
